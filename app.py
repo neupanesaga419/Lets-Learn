@@ -1,6 +1,7 @@
 from schemadict import schemadict
 
 # ok new changes gonne
+# La aba yo Samir ko laptop bata change vayo
 
 data = {
     "name":"Sagar Neupane",
